@@ -1,3 +1,4 @@
+
 import DetailsPage from "@/components/templates/DetailsPage";
 import { useRouter } from "next/router";
 
